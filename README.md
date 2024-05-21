@@ -1,4 +1,4 @@
-# gestion-hosptital-1
+# gestion-hospital-1
 
 APE - Implementación SGH
 
